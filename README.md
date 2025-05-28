@@ -9,6 +9,7 @@ A mobile-first application that allows hotel guests to request emergency medical
 - Securely submit a request for EMT assistance from a hotel suite.
 - Collect and store patient medical information, including:
   - Full Name
+  - Room Number 
   - Age
   - Date of Birth
   - Chief Complaint
