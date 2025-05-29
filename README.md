@@ -8,15 +8,23 @@ A mobile-first application that allows hotel guests to request emergency medical
 
 - Securely submit a request for EMT assistance from a hotel suite.
 - Collect and store patient medical information, including:
-  - Full Name
-  - Room Number 
-  - Age
-  - Date of Birth
+  - Suite Number
+  - Patient's Full Name  
+  - Patient's Date of Birth
   - Chief Complaint
-  - Medical History
-  - Allergies
-  - Medications
-  - Additional Notes
+  - List of Potential Symptoms (Check Boxes)
+    - Shortness of Breath
+    - Chest Pain 
+    - Abdominal Pain 
+    - Nausea
+    - Vomiting
+    - Diarrhea
+    - Dizziness
+    - Weakness
+    - Trauma
+    - Pregnancy
+    - Other (Please specify in Additional Information)
+  - Additional Information
 - Real-time request confirmation and status updates.
 - Location tagging to pinpoint hotel and room number.
 - Secure data handling following healthcare data privacy standards.
